@@ -1,0 +1,9 @@
+Live-server - got to indecision-app "live-server public" to run public folder
+
+set up babel -  babel src/app.js --out-file=public/scripts/app.js --presets=env,react
+
+setup script for babel and live-server (see package.json)
+
+Installed - yarn add babel-core.6.25.0 + babel-loader@7.1.1
+
+setup module in webpack.config
