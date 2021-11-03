@@ -3578,6 +3578,11 @@ split@0.3:
   dependencies:
     through "2"
 
+start@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/start/-/start-5.1.0.tgz#1c171f0ef9487f56d0ab9a755ace860169208763"
+  integrity sha1-HBcfDvlIf1bQq5p1Ws6GAWkgh2M=
+
 static-extend@^0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/static-extend/-/static-extend-0.1.2.tgz#60809c39cbff55337226fd5e0b520f341f1fb5c6"
@@ -3900,10 +3905,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-validator@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-8.0.0.tgz#00d6ec230ab5d3353ab1174162a96462b947bdbd"
-  integrity sha512-ni6X82obaR98FomBC8M/IF01u7d8WBjNhadxDDo+xGHGSfbTug1IS0j1zaoViYWQaMMFVfz40UhYxgs3dzvnZg==
+validator@13.7.0:
+  version "13.7.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.7.0.tgz#4f9658ba13ba8f3d82ee881d3516489ea85c0857"
+  integrity sha512-nYXQLCBkpJ8X6ltALua9dRrZDHVYxjJ1wgskNt1lH9fzGjs3tgojGSCBjmEPwkWS1y29+DrizMTW19Pr9uB2nw==
 
 vary@^1:
   version "1.1.2"
